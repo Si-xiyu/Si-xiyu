@@ -5,5 +5,5 @@ I’m proficient in C++, Qt, and Python, and have a foundational understanding o
 
 If you’re interested in discussing shared research interests, potential collaborations, or simply exchanging ideas, feel free to contact me at [junxiangluo0@outlook.com](mailto:junxiangluo0@outlook.com). I’m always open to meaningful conversations and new opportunities.  
 
-| ![Si-xiyu's GitHub stats](https://github-readme-stats-hazel-six-58.vercel.app/api?username=Si-xiyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats-hazel-six-58.vercel.app/api/top-langs/?username=Si-xiyu&layout=compact&theme=buefy&hide_border=true) |
+| <img src="https://github-readme-stats-hazel-six-58.vercel.app/api?username=Si-xiyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Si-xiyu's GitHub stats" /> | <img src="https://github-readme-stats-hazel-six-58.vercel.app/api/top-langs/?username=Si-xiyu&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
